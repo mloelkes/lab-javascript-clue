@@ -71,6 +71,9 @@ const roomsArray = [
         name: 'Conservatory'
     },
     {
+        name: 'Kitchen'
+    },
+    {
         name: 'Study'
     },
     {
